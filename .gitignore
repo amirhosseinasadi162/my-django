@@ -1,0 +1,17 @@
+# Ignore virtual environment
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore database (اختیاری در زمان dev)
+*.sqlite3
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configs
+.vscode/
+.idea/
